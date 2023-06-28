@@ -1,4 +1,9 @@
-### Hi there 👋
+<div align="center">
+    <img src="https://media1.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="50%">
+    <div id="badges">
+        <img src="https://komarev.com/ghpvc/?username=rrzq&style=for-the-badge&color=lightgrey">
+      </div>
+</div>
 
 <!--
 **rrzq/rrzq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
