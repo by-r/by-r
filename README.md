@@ -2,7 +2,8 @@
     <img src="https://media1.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="50%">
     <div id="badges">
         <img src="https://komarev.com/ghpvc/?username=rrzq&style=for-the-badge&color=lightgrey">
-      </div>
+    </div>
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=itsmeyourmomlmao&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)">
 </div>
 
 <!--
