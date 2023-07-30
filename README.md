@@ -10,7 +10,7 @@
 
 ### :hammer_and_wrench: Languages and Tools :
 <div>
-    <a target="_blank" rel="noopener noreferrer" href="https://vscode.dev/profile/github/4a6d14d5f084b05e10ea337a55ff7afc""><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" height="40" width="40"/></a>&nbsp;
+    <a target="_blank" rel="noopener noreferrer" href="https://vscode.dev/profile/github/4a6d14d5f084b05e10ea337a55ff7afc"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" height="40" width="40"/></a>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40" />&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40" />&nbsp;
