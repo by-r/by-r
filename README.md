@@ -37,6 +37,6 @@ I'm always reachable on my mail: rzq272@gmail.com or [LinkedIn](https://www.link
     	<a target="_blank" rel="noopener noreferrer" href="https://vscode.dev/profile/github/e3e9a2b6ff4bb63d83388a85ff42651c"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;
 	</div>
 	<br>
- 	<div>🎵 Currently Listening to</div>
+ 	<div>🎵 Currently Listening to</div><br>
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=itsmeyourmomlmao&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)"/>
 </div>
