@@ -1,41 +1,36 @@
+### 🙍‍♂️ Hey, I'm Razzeq
+
+Passionate Software developer based in Malaysia, love messing with tech and learning about how software works.
+
+- Check out my [website](https://react-portfolio-rrzq.vercel.app/) to learn a bit more about me. (Currently a bit outdated)
+- Currently building projects with `Django`
+- Wanting to learn `Golang` `PHP`
+
+
+## 🛠️ Languages and Tools 
+
+**Experienced Language** : `Python` `Javascript` `Java` `PHP` `C++` `C`
+
+**Most Comfortable** : `Python`
+ 
+**Technologies/Libraries** : `Django` `Bootstrap (HTML/CSS)` `Flask` `TailwindCSS (HTML/CSS)` `Docker (Currently Learning)` `Git` `Bash`
+
+
+## 💌 Contact 
+
+I'm always reachable on my mail: rzq272@gmail.com or [LinkedIn](https://www.linkedin.com/in/razzeq/)
+
+## ✨ Bonus
+
+### ⚙ VSCODE profile 
+- Click on corresponding icons to import the setting directly to your vscode.
+<div>	<a target="_blank" rel="noopener noreferrer" href="https://vscode.dev/profile/github/51257c90e3cd3c14a1cbf5947d20b7eb"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" height="40" width="40"/></a>&nbsp;
+    <a target="_blank" rel="noopener noreferrer" href="https://vscode.dev/profile/github/e3e9a2b6ff4bb63d83388a85ff42651c"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;
+</div>
+
+
+### 🎵 Currently Listening to
+
 <div align="center">
-    <img src="https://media1.giphy.com/media/Qo2dupDib32rkTY4hX/giphy.gif" width="50%">
-    <div id="badges">
-        <img src="https://komarev.com/ghpvc/?username=rrzq&style=for-the-badge&color=lightgrey"/>
-    </div>
     <img src="https://spotify-github-profile.vercel.app/api/view?uid=itsmeyourmomlmao&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)"/>
 </div>
-
----
-
-### 🛠️ Languages and Tools :
-<div>
-    <a target="_blank" rel="noopener noreferrer" href="https://vscode.dev/profile/github/51257c90e3cd3c14a1cbf5947d20b7eb"><img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" height="40" width="40"/></a>&nbsp;
-    <a target="_blank" rel="noopener noreferrer" href="https://vscode.dev/profile/github/e3e9a2b6ff4bb63d83388a85ff42651c"><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/></a>&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="40" height="40" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/django/django-plain.svg" title="Django" alt="Django" width="40" height="40" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" title="Bash" alt="Bash" width="40" height="40" />&nbsp;
-    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" **alt="Git" width="40" height="40"/>    
-</div>
-
-
-### 🌱 Currently Learning :
-<div>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-</div>
-
-
-<!--
-**rrzq/rrzq** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
