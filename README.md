@@ -4,7 +4,7 @@ Passionate Software developer based in Malaysia, love messing with tech and lear
 
 - Check out my [website](https://react-portfolio-rrzq.vercel.app/) to learn a bit more about me. (Currently a bit outdated - [WIP](https://by-r.github.io/) )
 - Currently building projects with `Django`
-- Wanting to learn `Golang` `PHP`
+- Wanting to learn `Golang` `PHP` `HTMX` 
 
 
 ## 🛠️ Languages and Tools 
