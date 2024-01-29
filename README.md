@@ -2,7 +2,7 @@
 
 Passionate Software developer based in Malaysia, love messing with tech and learning about how software works.
 
-- Check out my [website](https://react-portfolio-rrzq.vercel.app/) to learn a bit more about me. (Currently a bit outdated)
+- Check out my (old) [website](https://react-portfolio-rrzq.vercel.app/) to learn a bit more about me. (Currently a bit outdated)
 - New [Website](https://by-r.github.io/) - Currently Updating - Updated Info
 - Currently building projects with `Django`
 - Wanting to learn `Golang` `PHP` `HTMX` 
