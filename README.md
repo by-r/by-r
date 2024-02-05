@@ -14,7 +14,7 @@ Passionate Software developer based in Malaysia, love messing with tech and lear
 
 **Most Comfortable** : `Python`
  
-**Technologies/Libraries** : `Django` `Bootstrap` `Flask` `TailwindCSS` `Docker (Currently Learning)` `Git` `Bash`
+**Technologies/Libraries** : `Django` `Bootstrap` `Flask` `FastAPI` `TailwindCSS` `Docker (Currently Learning)` `Git` `Bash`
 
 
 ## 💌 Contact 
