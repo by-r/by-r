@@ -1,8 +1,7 @@
-### 🙍‍♂️ Hey
+## 🙍‍♂️ Status
 
 - Currently building projects with `Django`
 - Wanting to Experiment `Rust` `PHP` `HTMX` `Docker` 
-
 
 ## 🛠️ Languages and Tools 
 
