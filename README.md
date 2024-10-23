@@ -1,8 +1,5 @@
-### 🙍‍♂️ Hey, I'm Razzeq
+### 🙍‍♂️ Hey
 
-Passionate Software developer based in Malaysia, love messing with tech and learning about how software works.
-
-- Check out my [Website](https://by-r.github.io/) to learn a bit more about me.
 - Currently building projects with `Django`
 - Wanting to Experiment `Rust` `PHP` `HTMX` `Docker` 
 
