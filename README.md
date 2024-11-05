@@ -9,7 +9,7 @@
 
 **Most Comfortable** : `Python`
  
-**Technologies/Libraries** : `Django` `Bootstrap` `Flask` `FastAPI` `TailwindCSS` `Docker (Currently Learning)` `Git` `Bash`
+**Technologies/Libraries** : `Django` `Bootstrap` `Flask` `FastAPI` `TailwindCSS` `Docker` `Git` `Bash`
 
 
 ## 💌 Contact 
