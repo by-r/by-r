@@ -34,5 +34,5 @@ I'm always reachable on my mail: rzq272@gmail.com or [LinkedIn](https://www.link
 	</div>
 	<br>
  	<div>🎵 Currently Listening to</div><br>
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=itsmeyourmomlmao&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)"/>
+    <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=itsmeyourmomlmao&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)"/>
 </div>
