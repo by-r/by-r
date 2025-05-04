@@ -1,7 +1,7 @@
 ## 🙍‍♂️ Status
 
 - Currently building projects with `Django`
-- Wanting to Experiment `HTMX` `Docker` `Automations`  
+- Currently Experimenting `HTMX` `CI/CD`
 
 ## 🛠️ Languages and Tools 
 
