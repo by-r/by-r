@@ -11,15 +11,7 @@
  
 **Technologies/Libraries** : `Django` `Bootstrap` `Flask` `FastAPI` `TailwindCSS` `Docker` `Git` `Bash`
 
-
-## 💌 Contact 
-
-I'm always reachable on my mail: rzq272@gmail.com or [LinkedIn](https://www.linkedin.com/in/razzeq/)
-
 ## ✨ Bonus
-
-
-
 
 
 
